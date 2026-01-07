@@ -1,4 +1,4 @@
-# :artificial_satellite: Spatial Module
+# :artificial_satellite: Historical Redlining and Greenspace: A Satellite Imagery Analysis
 
 [![Reproducibility Check](https://github.com/espm-157/spatial-module-3-ashley-erin/actions/workflows/main.yml/badge.svg)](https://github.com/espm-157/spatial-module-3-ashley-erin/actions/workflows/main.yml)
 
