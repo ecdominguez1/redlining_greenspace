@@ -29,4 +29,6 @@ This paper contains the analysis we will attempt to partially replicate. It expl
 
 - This dataset contains satellite imagery in 13 spectral bands at a spatial resolution of approximately 10m-60m (we will reduce the resolution to 100m in our analysis for easier processing). The revisit time for Sentinel-2 is roughly 5 days. While the dataset contains rows from 2015 onward, we will only be streaming data from three months in 2025.
 
+## Repository details
 
+This repository was created as part of ESPM 157, a UC Berkeley class taught by Carl Boettinger centered around using data science to explore global change ecology. The original project was created as a fork of a private repository, so in order to showcase our work publically we needed to create a new repository (this one) and manually copy over our files. It is for this reason that there are very few visible commits in the history.
